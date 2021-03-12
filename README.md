@@ -70,4 +70,4 @@ ASPI’s Xinjiang Data Project is a significant project in the plight of the Uyg
 2. D'Ignazio, C. (2019, April 4). Putting data back into context. Retrieved March 11, 2021, from https://datajournalism.com/read/longreads/putting-data-back-into-context
 3. Walton, A. L. (n.d.). The Guide to Map Design. Retrieved March 11, 2021, from https://github.com/jakobzhao/geog458/blob/master/weeks/week05/mapbox-design.pdf
 4. The Xinjiang Data Project. (n.d.). Retrieved March 11, 2021, from https://xjdp.aspi.org.au/
-5. V.	Zhao, B., Xu, F. (n.d.). Novel coronavirus infection map. Retrieved March 11, 2021, from https://hgis.uw.edu/virus/
+5. Zhao, B., Xu, F. (n.d.). Novel coronavirus infection map. Retrieved March 11, 2021, from https://hgis.uw.edu/virus/
